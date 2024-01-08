@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sohal786
+- 👋 Hi, I’m Akshat Sohal
 - 👀 I’m interested in learning more about problem solving and coding
-- 🌱 I’m currently learning c++ 
 - 💞️ I’m looking to collaborate on any project that is beginner/ intermediate level
 - 📫 How to reach me ...akshatsohal@hotmail.com
 
